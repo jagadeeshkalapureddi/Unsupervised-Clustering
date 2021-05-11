@@ -1,2 +1,2 @@
 # Unsupervised-Clustering
-Both K and Hierarchical Clustering
+Both K-Means and Hierarchical Clustering
